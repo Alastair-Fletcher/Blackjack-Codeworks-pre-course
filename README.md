@@ -2,7 +2,7 @@
 
 This is my first ever project. It was fun to make and I learned a lot from it!
 
-### Built with :point_down:
+### Built with...
 <p align="left">
 <!-- HTML5 -->
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" width="60" height="60" /></a>
@@ -13,9 +13,7 @@ This is my first ever project. It was fun to make and I learned a lot from it!
 <!-- jQuery -->
 <a href="https://jquery.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" alt="jQuery" width="60" height="60" /></a></p>
 
-### Play :point_down:
-
-<a href="https://alastair-fletcher.github.io/blackjack/">Blackjack</a>
+:point_right: <a href="https://alastair-fletcher.github.io/blackjack/">PLAY HERE</a>
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/72270481/185140936-be228f1a-a159-4dd1-8c64-cdefb24e0a79.png" width="500" />
