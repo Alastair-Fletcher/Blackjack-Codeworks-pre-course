@@ -1,21 +1,21 @@
 # Blackjack :spades: :clubs:
 
+This is my first ever project. It was fun to make and I learned a lot from it!
+
 ### Built with :point_down:
 <p align="left">
-<!-- JavaScript -->
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" width="60" height="60" /></a>
 <!-- HTML5 -->
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" width="60" height="60" /></a>
 <!-- CSS3 -->
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" width="60" height="60" /></a>
-</p>
-
+<!-- JavaScript -->
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" width="60" height="60" /></a>
+<!-- jQuery -->
+<a href="https://jquery.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" alt="jQuery" width="60" height="60" /></a></p>
 
 ### Play :point_down:
 
 <a href="https://alastair-fletcher.github.io/blackjack.github.io/">Blackjack</a>
-
-
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/72270481/185140936-be228f1a-a159-4dd1-8c64-cdefb24e0a79.png" width="500" />
